@@ -1,0 +1,10 @@
+body {
+    background-image: url("bg.jpg");
+    }
+.container{
+    font-family: 'Agency FB';
+}
+.button a{
+    text-decoration: none;
+    color:rgb(124, 76, 4);
+}
